@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "7.4",
-  "apkUrl": "https://github.com/KrRanjeetkr/office-app-updates/releases/download/v7.4/app_update.apk",
+  "versionCode": 65,
+  "versionName": "7.5",
+  "apkUrl": "https://github.com/KrRanjeetkr/office-app-updates/releases/download/v7.5/app_update.apk",
   "forceUpdate": true,
   "message": "New version available. Please update to continue using the app."
 }
